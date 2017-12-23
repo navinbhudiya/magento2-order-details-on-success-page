@@ -14,3 +14,15 @@
 - Now flush cache: <b>php bin/magento cache:flush</b>
 
 ## Community: 2.1.x - 2.2.x
+
+
+<h3>General Configuration</h3>
+<img src="https://raw.githubusercontent.com/navinbhudiya/all-module-screenshots/master/order-detail/general-configuration.png" alt="General Configuration" />
+
+
+<h3>Message Configuration</h3>
+<img src="https://raw.githubusercontent.com/navinbhudiya/all-module-screenshots/master/order-detail/message-configuration.png" alt="General Configuration" />
+
+
+<h3>Success Page</h3>
+<img src="https://raw.githubusercontent.com/navinbhudiya/all-module-screenshots/master/order-detail/thank-you.png" alt="General Configuration" />
