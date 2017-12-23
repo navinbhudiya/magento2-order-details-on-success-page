@@ -1,6 +1,6 @@
-#Order Details on Success Page for Magento 2
+# Order Details on Success Page for Magento 2
 
-#Magento 2 Order Details on Success Page extension shows all order information on the Thank you page after finishing checkout.
+# Magento 2 Order Details on Success Page extension shows all order information on the Thank you page after finishing checkout.
 - Get order details into Magento 2 checkout success page
 - Display Thank you message to customers
 - Display Shipping and Payment information of customers
